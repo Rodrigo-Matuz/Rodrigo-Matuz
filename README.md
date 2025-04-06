@@ -16,7 +16,7 @@
 🎲 Fun fact: I dual-boot Linux and fight config dragons on the daily — Hyprland on Arch (btw)<br>
 </p>
 
-<h2 align="left">💼 Currently</h2>
+<h2 align="left">Currently</h2>
 
 <p align="left">
 🎓 Studying Software Engineering (2022 - 2025)<br>
@@ -24,7 +24,7 @@
 🚀 Building side projects for fun using Tauri, Bun, and Neovim (with TypeScript tools, of course)
 </p>
 
-<h2 align="left">🔧 Stack</h2>
+<h2 align="left">Stack</h2>
 
 <p align="left">
 🖥️ Linux (Arch, NixOS)<br>
@@ -32,7 +32,7 @@
 📝 Vim/Neovim enthusiast with some Lua config files<br>
 </p>
 
-<h2 align="left">📌 Contact Me:</h2>
+<h2 align="left">Contact Me:</h2>
 
 <div align="left">
 
